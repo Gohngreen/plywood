@@ -51,7 +51,7 @@
         <!-- Джумботрон -->
                 <div class="jumbotron">
           <h1 class="display-3">Лучшие табуретки и стулья из фанеры!</h1>
-          <p class="lead">Изготавливаем из лучших сортов фанеры на ультрасовременном роботизированном оборудовании.</p>
+          <p class="lead">Производим разборные и складные стулья и табуреты из фанеры.</p>
           <hr class="my-4">
           <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
           <p class="lead">
